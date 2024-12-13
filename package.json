@@ -1,7 +1,7 @@
 {
   "name": "express2",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "description": "express2",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "license": "ISC",
   "keywords": [],
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.21.2",
     "readline-sync": "^1.4.10"
   }
